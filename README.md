@@ -1,4 +1,4 @@
-motd
+motd edited
 ====
 
 #### Message of the Day for the Raspberry Pi ####
