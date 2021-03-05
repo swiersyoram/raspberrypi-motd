@@ -1,7 +1,7 @@
 # Message of the Day for the Raspberry Pi
 
 <p align="center">
-  <img src="https://github.com/swiersyoram/raspberrypi-motd.git/raspberrypi.png?raw=true"/>
+  <img src="https://github.com/swiersyoram/raspberrypi-motd/blob/d827accba47ede607ef9395868c3b285b252d289/raspberrypi.png?raw=true"/>
 </p>
 
 Written in pure Bash. No need to install any package. Tested with the Arch Linux ARM and Raspbian distributions.
@@ -9,7 +9,7 @@ Written in pure Bash. No need to install any package. Tested with the Arch Linux
 Download and save the `motd.sh` bash script in the Raspberry Pi. Remember to add execution permissions and change the owner:
 
 ```bash
-$ sudo chown root:root motd.sh
+$ sudo chown root motd.sh
 $ sudo chmod +x motd.sh
 ```
 
